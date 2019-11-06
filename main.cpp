@@ -4,6 +4,6 @@ int main()
 {
 cout << "Hello, world" << endl;
 int i = 0;
-cout << i;
+cout << i++;
 return 0;
 }
